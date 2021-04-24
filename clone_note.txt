@@ -1,0 +1,6 @@
+I just created empty remote repo from GitHub.com account and cloned this repository by clicking on 
+the plus icon on the top right corner 
+and new repository.
+We gave a name.Cloned it to set up in Desktop App.
+Optionally select the location
+It cloned our remote repo so we can start working remotely
